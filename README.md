@@ -9,8 +9,9 @@ If the hour is passed, the row will highlight grey.
 If the hour is still to come, the row will highlight green.
 And if the hour is present, the row will highlight red.
 
-![Screenshot of Scheduler](images/scheduless.png)
+#Screenshot
+![Screenshot of Scheduler](images/scheduless.PNG)
 
-
-GitHub Repo: https://github.com/moeac/MoeC-Scheduler.git
+#Links
+GitHub Repo: https://github.com/moeac/MoeC-Scheduler.git <br>
 Website Link: https://moeac.github.io/MoeC-Scheduler/
